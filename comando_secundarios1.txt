@@ -2,3 +2,6 @@ aqui estarão os comandos secundários
 
 comando 1
 comando 2
+
+# comandos genéricos
+- estranhos
