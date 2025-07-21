@@ -8,9 +8,11 @@ Um curso para aprender a trabalhar com versionamento de código e repositórios.
 
 Aprendendo bastante.
 
+Assisti no canal do youtube do teo, muito bom teo como professor
 
 
-\## Fluxo de trabalho git local
+
+## Fluxo de trabalho git local
 
 1. git checkout -b (nova branch)
 
@@ -30,7 +32,7 @@ Aprendendo bastante.
 
 
 
-\## Fluxo de trabalho GitHub <> local (projeto próprio)
+## Fluxo de trabalho GitHub <> local (projeto próprio)
 
 
 
@@ -60,7 +62,7 @@ Aprendendo bastante.
 
 
 
-\## Fluxo de trabalho GitHub <> local (projeto apen source)
+## Fluxo de trabalho GitHub <> local (projeto apen source)
 
 
 
