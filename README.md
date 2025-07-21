@@ -1,4 +1,4 @@
-\# Curso TMW Git e GitHub 2025
+# Curso TMW Git e GitHub 2025
 
 
 
@@ -10,7 +10,7 @@ Aprendendo bastante.
 
 
 
-\## Fluxo de trabalho git local
+## Fluxo de trabalho git local
 
 1. git checkout -b (nova branch)
 
@@ -60,7 +60,7 @@ Aprendendo bastante.
 
 
 
-\## Fluxo de trabalho GitHub <> local (projeto apen source)
+## Fluxo de trabalho GitHub <> local (projeto apen source)
 
 
 
